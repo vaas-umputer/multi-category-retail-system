@@ -9,31 +9,25 @@ Frontend: HTML, CSS, JavaScript (or React/Vue)
 ● Charts: Chart.js
 ● Code Assistant: Cursor AI, bolt ai
 
-### 🏠 Dashboard (Homepage) - RetailPro
+### Dashboard (Homepage) - RetailPro
 - Inventory metrics (total items, categories)
 - Low stock alerts
 - Recent sales feed
-- System health/status cards
 
-### 📂 Category Management (Admin)
+### Category Management (Admin)
 - CRUD for categories
 - Validation: prevents deletion if products exist
-- Import/Export categories (CSV or JSON)
 
-### 📦 Inventory Control
-- Product schema: `id`, `name`, `SKU`, `categoryId`, `price`, `stock`, `reorderPoint`
+### Inventory Control
 - Batch stock updates
-- Product image upload (max 1MB)
 - Reorder alerts
 
-### 🧾 Billing System
+### Billing System
 - Cart-based multi-item billing
-- Auto-calculation: subtotal, tax (10%), discounts (fixed/percentage)
+- Auto-calculation: subtotal, tax (percentage entry), discounts (percentage entry)
 - PDF invoice generation
-- Payment method tracking
 - Automatic stock updates
 
 ### 📊 Analytics & Reporting
 - Sales trends by date/category/product
 - Top-selling items
-- Downloadable reports: CSV, PDF, Excel
