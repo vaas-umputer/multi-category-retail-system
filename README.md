@@ -9,6 +9,8 @@ Database: JSON files
 Charts: Chart.js
 Code Assistant: Cursor AI, bolt ai
 
+Two roles supported : cashier, admin
+
 ### Dashboard (Homepage) - RetailPro
 - Inventory metrics (total items, categories)
 - Low stock alerts
