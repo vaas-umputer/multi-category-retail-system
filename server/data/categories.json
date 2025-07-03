@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Electronics",
+    "description": "Electronic devices and accessories",
+    "status": "active",
+    "createdAt": "2025-07-03T07:13:59.532Z"
+  },
+  {
+    "id": 2,
+    "name": "Clothing",
+    "description": "Apparel and fashion items",
+    "status": "active",
+    "createdAt": "2025-07-03T07:13:59.532Z"
+  },
+  {
+    "id": 3,
+    "name": "Books",
+    "description": "Books and educational materials",
+    "status": "active",
+    "createdAt": "2025-07-03T07:13:59.532Z"
+  },
+  {
+    "id": 4,
+    "name": "cutlery",
+    "description": "cutlery items",
+    "status": "active",
+    "createdAt": "2025-07-03T07:15:56.247Z"
+  }
+]

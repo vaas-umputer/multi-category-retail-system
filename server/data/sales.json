@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "items": [
+      {
+        "productId": 1,
+        "productName": "Smartphone",
+        "sku": "SP001",
+        "price": 699.99,
+        "quantity": 1,
+        "total": 699.99
+      }
+    ],
+    "subtotal": 699.99,
+    "discount": 0,
+    "tax": 0,
+    "total": 699.99,
+    "paymentMethod": "cash",
+    "customerName": "Walk-in Customer",
+    "cashierId": 2,
+    "cashierName": "cashier",
+    "createdAt": "2025-07-03T07:25:42.055Z"
+  },
+  {
+    "id": 2,
+    "items": [
+      {
+        "productId": 1,
+        "productName": "Smartphone",
+        "sku": "SP001",
+        "price": 699.99,
+        "quantity": 23,
+        "total": 16099.77
+      }
+    ],
+    "subtotal": 16099.77,
+    "discount": 0,
+    "tax": 0,
+    "total": 16099.77,
+    "paymentMethod": "cash",
+    "customerName": "Walk-in Customer",
+    "cashierId": 2,
+    "cashierName": "cashier",
+    "createdAt": "2025-07-03T07:29:14.305Z"
+  },
+  {
+    "id": 3,
+    "items": [
+      {
+        "productId": 1,
+        "productName": "Smartphone",
+        "sku": "SP001",
+        "price": 699.99,
+        "quantity": 1,
+        "total": 699.99
+      }
+    ],
+    "subtotal": 699.99,
+    "discount": 0,
+    "tax": 0,
+    "total": 699.99,
+    "paymentMethod": "cash",
+    "customerName": "Walk-in Customer",
+    "cashierId": 1,
+    "cashierName": "admin",
+    "createdAt": "2025-07-03T07:42:02.234Z"
+  },
+  {
+    "id": 4,
+    "items": [
+      {
+        "productId": 3,
+        "productName": "T-Shirt",
+        "sku": "TS001",
+        "price": 19.99,
+        "quantity": 50,
+        "total": 999.4999999999999
+      }
+    ],
+    "subtotal": 999.4999999999999,
+    "discount": 99.94999999999999,
+    "tax": 107.94599999999998,
+    "total": 1007.496,
+    "paymentMethod": "cash",
+    "customerName": "varshini",
+    "cashierId": 1,
+    "cashierName": "admin",
+    "createdAt": "2025-07-03T07:51:12.585Z"
+  }
+]

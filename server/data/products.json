@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone",
+    "sku": "SP001",
+    "categoryId": 1,
+    "price": 699.99,
+    "stock": 0,
+    "reorderPoint": 10,
+    "description": "Latest model smartphone with advanced features",
+    "lastUpdated": "2025-07-03T07:42:02.234Z"
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "sku": "LP001",
+    "categoryId": 1,
+    "price": 1299.99,
+    "stock": 15,
+    "reorderPoint": 5,
+    "description": "High-performance laptop for business and gaming",
+    "lastUpdated": "2025-07-03T07:13:59.534Z"
+  },
+  {
+    "id": 3,
+    "name": "T-Shirt",
+    "sku": "TS001",
+    "categoryId": 2,
+    "price": 19.99,
+    "stock": 50,
+    "reorderPoint": 20,
+    "description": "Comfortable cotton t-shirt",
+    "lastUpdated": "2025-07-03T07:51:12.585Z"
+  }
+]

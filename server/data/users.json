@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "$2a$10$93jyj5GDSD5JcAtj.q1mfe5AGqfcab.J7HO0lRuAwW.qjdmqXjBHK",
+    "role": "ADMIN",
+    "email": "admin@store.com",
+    "createdAt": "2025-07-03T07:13:59.182Z"
+  },
+  {
+    "id": 2,
+    "username": "cashier",
+    "password": "$2a$10$M85CsHjAStG9T2CIW.YiOO2WqaTGkqvDmQp/QZgnQhU777uisMyl6",
+    "role": "CASHIER",
+    "email": "cashier@store.com",
+    "createdAt": "2025-07-03T07:13:59.530Z"
+  }
+]
