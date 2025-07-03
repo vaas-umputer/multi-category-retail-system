@@ -28,6 +28,6 @@ Code Assistant: Cursor AI, bolt ai
 - PDF invoice generation
 - Automatic stock updates
 
-### 📊 Analytics & Reporting
+### Analytics & Reporting
 - Sales trends by date/category/product
 - Top-selling items
