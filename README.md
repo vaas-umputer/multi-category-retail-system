@@ -3,7 +3,7 @@
 A full stack web application for managing,  inventory, billing and sales analytics in a retail setting.
 
 Tech stack used:
-Frontend: HTML, CSS, JavaScript (or React/Vue)
+Frontend: HTML, CSS, JavaScript (React)
 Backend: Node.js
 Database: JSON files
 Charts: Chart.js
