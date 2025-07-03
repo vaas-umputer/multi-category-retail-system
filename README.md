@@ -4,10 +4,10 @@ A full stack web application for managing,  inventory, billing and sales analyti
 
 Tech stack used:
 Frontend: HTML, CSS, JavaScript (or React/Vue)
-● Backend: Node.js
-● Database: JSON files
-● Charts: Chart.js
-● Code Assistant: Cursor AI, bolt ai
+Backend: Node.js
+Database: JSON files
+Charts: Chart.js
+Code Assistant: Cursor AI, bolt ai
 
 ### Dashboard (Homepage) - RetailPro
 - Inventory metrics (total items, categories)
